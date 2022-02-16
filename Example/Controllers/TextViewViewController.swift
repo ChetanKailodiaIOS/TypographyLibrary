@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import TypographyLibrary
 
 class TextViewViewController: UIViewController {
 
