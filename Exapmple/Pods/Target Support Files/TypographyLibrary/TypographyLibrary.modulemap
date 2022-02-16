@@ -1,6 +1,0 @@
-framework module TypographyLibrary {
-  umbrella header "TypographyLibrary-umbrella.h"
-
-  export *
-  module * { export * }
-}
