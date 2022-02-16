@@ -26,6 +26,6 @@ The goal of Typography is to provide a high-level elegant for expressing typogra
   spec.swift_version = "4.2"
 
   spec.source        = { :git => "https://github.com/Chetanideal/TypographyLibrary.git", :tag => "#{spec.version}" }
-  spec.source_files  = "TypographyLibrary/**/*.{h,m,swift}"
+  spec.source_files  = "TypographyLibrary/TypographyLibrary/Typography/**/*.{h,m,swift}"
 
 end

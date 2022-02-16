@@ -7,16 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0478B3C027BA271A00645CC3 /* TextViewTypography.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0478B3BF27BA271A00645CC3 /* TextViewTypography.swift */; };
-		0478B3C527BA2E0000645CC3 /* ButtonTypography.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0478B3C427BA2E0000645CC3 /* ButtonTypography.swift */; };
 		0478B3C827BA2EDF00645CC3 /* ButtonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0478B3C727BA2EDF00645CC3 /* ButtonViewController.swift */; };
-		047C5F9F27B626FA00F4EE3C /* LabelTypography.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047C5F9E27B626FA00F4EE3C /* LabelTypography.swift */; };
 		047C5FAF27B6447500F4EE3C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047C5FAE27B6447500F4EE3C /* main.swift */; };
 		047C5FB227B6449A00F4EE3C /* TypographyApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047C5FB127B6449A00F4EE3C /* TypographyApplication.swift */; };
 		047C5FBA27B665D600F4EE3C /* TextFieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047C5FB927B665D600F4EE3C /* TextFieldViewController.swift */; };
-		047C5FC127B66E5E00F4EE3C /* TextFieldTypography.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047C5FC027B66E5E00F4EE3C /* TextFieldTypography.swift */; };
-		047C5FC627B66EE400F4EE3C /* TypographySupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047C5FC527B66EE400F4EE3C /* TypographySupport.swift */; };
-		047C5FCC27B66FAC00F4EE3C /* TypographyAttributedText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047C5FCB27B66FAC00F4EE3C /* TypographyAttributedText.swift */; };
 		047C5FD127B688C800F4EE3C /* TextViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047C5FD027B688C800F4EE3C /* TextViewViewController.swift */; };
 		0496EAFD27B533F00027D5A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0496EAFC27B533F00027D5A8 /* AppDelegate.swift */; };
 		0496EAFF27B533F00027D5A8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0496EAFE27B533F00027D5A8 /* SceneDelegate.swift */; };
@@ -30,16 +24,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0478B3BF27BA271A00645CC3 /* TextViewTypography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewTypography.swift; sourceTree = "<group>"; };
-		0478B3C427BA2E0000645CC3 /* ButtonTypography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonTypography.swift; sourceTree = "<group>"; };
 		0478B3C727BA2EDF00645CC3 /* ButtonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonViewController.swift; sourceTree = "<group>"; };
-		047C5F9E27B626FA00F4EE3C /* LabelTypography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelTypography.swift; sourceTree = "<group>"; };
 		047C5FAE27B6447500F4EE3C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		047C5FB127B6449A00F4EE3C /* TypographyApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypographyApplication.swift; sourceTree = "<group>"; };
 		047C5FB927B665D600F4EE3C /* TextFieldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldViewController.swift; sourceTree = "<group>"; };
-		047C5FC027B66E5E00F4EE3C /* TextFieldTypography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldTypography.swift; sourceTree = "<group>"; };
-		047C5FC527B66EE400F4EE3C /* TypographySupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypographySupport.swift; sourceTree = "<group>"; };
-		047C5FCB27B66FAC00F4EE3C /* TypographyAttributedText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypographyAttributedText.swift; sourceTree = "<group>"; };
 		047C5FD027B688C800F4EE3C /* TextViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewViewController.swift; sourceTree = "<group>"; };
 		0496EAF927B533F00027D5A8 /* TypographyLibrary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TypographyLibrary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0496EAFC27B533F00027D5A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,35 +53,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0478B3BE27BA26F800645CC3 /* TextViewTypography */ = {
-			isa = PBXGroup;
-			children = (
-				0478B3BF27BA271A00645CC3 /* TextViewTypography.swift */,
-			);
-			path = TextViewTypography;
-			sourceTree = "<group>";
-		};
-		0478B3C327BA2DE700645CC3 /* ButtonTypography */ = {
-			isa = PBXGroup;
-			children = (
-				0478B3C427BA2E0000645CC3 /* ButtonTypography.swift */,
-			);
-			path = ButtonTypography;
-			sourceTree = "<group>";
-		};
-		0478B3CA27BA316000645CC3 /* Typography */ = {
-			isa = PBXGroup;
-			children = (
-				047C5FCA27B66F7D00F4EE3C /* TypographyAttributedText */,
-				047C5FC427B66E8B00F4EE3C /* TypographySupport */,
-				0478B3C327BA2DE700645CC3 /* ButtonTypography */,
-				0478B3BE27BA26F800645CC3 /* TextViewTypography */,
-				047C5FBF27B66E4600F4EE3C /* TextFieldTypography */,
-				0496EB1727B534AF0027D5A8 /* LabelTypography */,
-			);
-			path = Typography;
-			sourceTree = "<group>";
-		};
 		047C5FA827B627C400F4EE3C /* Font */ = {
 			isa = PBXGroup;
 			children = (
@@ -130,30 +89,6 @@
 			path = ApplicationMain;
 			sourceTree = "<group>";
 		};
-		047C5FBF27B66E4600F4EE3C /* TextFieldTypography */ = {
-			isa = PBXGroup;
-			children = (
-				047C5FC027B66E5E00F4EE3C /* TextFieldTypography.swift */,
-			);
-			path = TextFieldTypography;
-			sourceTree = "<group>";
-		};
-		047C5FC427B66E8B00F4EE3C /* TypographySupport */ = {
-			isa = PBXGroup;
-			children = (
-				047C5FC527B66EE400F4EE3C /* TypographySupport.swift */,
-			);
-			path = TypographySupport;
-			sourceTree = "<group>";
-		};
-		047C5FCA27B66F7D00F4EE3C /* TypographyAttributedText */ = {
-			isa = PBXGroup;
-			children = (
-				047C5FCB27B66FAC00F4EE3C /* TypographyAttributedText.swift */,
-			);
-			path = TypographyAttributedText;
-			sourceTree = "<group>";
-		};
 		0496EAF027B533F00027D5A8 = {
 			isa = PBXGroup;
 			children = (
@@ -178,7 +113,6 @@
 				0496EB1127B534310027D5A8 /* UI */,
 				047C5FB427B6462D00F4EE3C /* Assets */,
 				0496EB1227B534420027D5A8 /* Supporting */,
-				0478B3CA27BA316000645CC3 /* Typography */,
 				047C5FA927B627D300F4EE3C /* pList */,
 			);
 			path = TypographyLibrary;
@@ -219,14 +153,6 @@
 				0478B3C727BA2EDF00645CC3 /* ButtonViewController.swift */,
 			);
 			path = Controllers;
-			sourceTree = "<group>";
-		};
-		0496EB1727B534AF0027D5A8 /* LabelTypography */ = {
-			isa = PBXGroup;
-			children = (
-				047C5F9E27B626FA00F4EE3C /* LabelTypography.swift */,
-			);
-			path = LabelTypography;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -303,18 +229,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				0496EB0127B533F00027D5A8 /* LableViewController.swift in Sources */,
-				047C5FCC27B66FAC00F4EE3C /* TypographyAttributedText.swift in Sources */,
 				047C5FAF27B6447500F4EE3C /* main.swift in Sources */,
 				047C5FBA27B665D600F4EE3C /* TextFieldViewController.swift in Sources */,
-				047C5F9F27B626FA00F4EE3C /* LabelTypography.swift in Sources */,
-				047C5FC127B66E5E00F4EE3C /* TextFieldTypography.swift in Sources */,
 				047C5FD127B688C800F4EE3C /* TextViewViewController.swift in Sources */,
 				0496EAFD27B533F00027D5A8 /* AppDelegate.swift in Sources */,
 				0478B3C827BA2EDF00645CC3 /* ButtonViewController.swift in Sources */,
-				047C5FC627B66EE400F4EE3C /* TypographySupport.swift in Sources */,
 				0496EAFF27B533F00027D5A8 /* SceneDelegate.swift in Sources */,
-				0478B3C527BA2E0000645CC3 /* ButtonTypography.swift in Sources */,
-				0478B3C027BA271A00645CC3 /* TextViewTypography.swift in Sources */,
 				047C5FB227B6449A00F4EE3C /* TypographyApplication.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
