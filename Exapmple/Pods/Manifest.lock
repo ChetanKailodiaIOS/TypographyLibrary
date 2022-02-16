@@ -1,0 +1,21 @@
+PODS:
+  - TypographyLibrary (0.0.1)
+
+DEPENDENCIES:
+  - TypographyLibrary (from `https://github.com/Chetanideal/TypographyLibrary.git`)
+
+EXTERNAL SOURCES:
+  TypographyLibrary:
+    :git: https://github.com/Chetanideal/TypographyLibrary.git
+
+CHECKOUT OPTIONS:
+  TypographyLibrary:
+    :commit: 9d705bf711782fb0615265b6db32d563207a20d8
+    :git: https://github.com/Chetanideal/TypographyLibrary.git
+
+SPEC CHECKSUMS:
+  TypographyLibrary: 5efb475ead6ab999bbe62a856a2cf3e6d75d3345
+
+PODFILE CHECKSUM: 58cf2c1a323d46ff725d9d6aa967f6c291395997
+
+COCOAPODS: 1.11.2
