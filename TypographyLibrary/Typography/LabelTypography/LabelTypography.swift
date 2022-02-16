@@ -21,7 +21,7 @@ extension UILabel {
         }
     }
    
-    @IBInspectable var textColor: UIColor? {
+    @IBInspectable var textColorKey: UIColor? {
         get {
             return self.textColor
         }
