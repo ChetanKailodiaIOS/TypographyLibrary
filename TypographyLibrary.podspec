@@ -23,7 +23,7 @@ The goal of Typography is to provide a high-level elegant for expressing typogra
   spec.author       = { "Chetanideal" => "chetan@idealittechno.com" }
 
   spec.ios.deployment_target = "12.1"
-  spec.swift_version = "4.2"
+  spec.swift_version = "5.0"
 
   spec.source        = { :git => "https://github.com/Chetanideal/TypographyLibrary.git", :tag => "#{spec.version}" }
   spec.source_files  = "TypographyLibrary/**/*.{h,m,swift}"
