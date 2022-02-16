@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import TypographyLibrary
 
 class LableViewController: UIViewController {
     

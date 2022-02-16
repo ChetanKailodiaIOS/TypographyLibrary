@@ -12,7 +12,7 @@
         <!--Lable View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="LableViewController" customModule="Example" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="LableViewController" customModule="TypographyLibrary" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -198,7 +198,7 @@
                                             <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yaF-HL-ZHb">
                                                 <rect key="frame" x="20" y="350" width="374" height="150"/>
                                                 <subviews>
-                                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WD8-zk-fNB" customClass="UIPlaceHolderTextView" customModule="TypographyLibrary">
+                                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WD8-zk-fNB" customClass="UIPlaceHolderTextView" customModule="TypographyLibrary" customModuleProvider="target">
                                                         <rect key="frame" x="5" y="5" width="364" height="140"/>
                                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                         <color key="textColor" systemColor="labelColor"/>
@@ -307,7 +307,7 @@
         <!--Title-->
         <scene sceneID="3c7-uI-Vc7">
             <objects>
-                <viewController storyboardIdentifier="TextFieldViewController" id="hDw-rV-fjE" customClass="TextFieldViewController" customModule="Example" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="TextFieldViewController" id="hDw-rV-fjE" customClass="TextFieldViewController" customModule="TypographyLibrary" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="p5u-rd-z26">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -429,7 +429,7 @@
         <!--Text View View Controller-->
         <scene sceneID="fOd-4J-WyQ">
             <objects>
-                <viewController storyboardIdentifier="TextViewViewController" id="fBn-Mp-cTR" customClass="TextViewViewController" customModule="Example" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="TextViewViewController" id="fBn-Mp-cTR" customClass="TextViewViewController" customModule="TypographyLibrary" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="wus-Rm-Dp4">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -480,7 +480,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="83A-bv-jtu">
                                 <rect key="frame" x="20" y="133" width="374" height="150"/>
                                 <subviews>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="nQ9-OL-WfG" customClass="UIPlaceHolderTextView" customModule="TypographyLibrary">
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="nQ9-OL-WfG" customClass="UIPlaceHolderTextView" customModule="TypographyLibrary" customModuleProvider="target">
                                         <rect key="frame" x="5" y="5" width="364" height="140"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <color key="textColor" systemColor="labelColor"/>
@@ -582,7 +582,7 @@
         <!--Title-->
         <scene sceneID="OFg-dR-I18">
             <objects>
-                <viewController storyboardIdentifier="ButtonViewController" id="KzO-Ff-tKg" customClass="ButtonViewController" customModule="Example" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ButtonViewController" id="KzO-Ff-tKg" customClass="ButtonViewController" customModule="TypographyLibrary" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="5UC-h7-ybb">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
